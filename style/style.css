@@ -49,7 +49,7 @@ text-align: center;
 
 .background-add{
 background-image: url(../assets/Hero-bg.png);
-width: 1900px;
+width: 1895px;
 height: 722px;
 left: 0;
 right: 0;
@@ -232,6 +232,150 @@ opacity: 0.7;
 }
 
 /* insprition section */
+
+
+/* Carent target */
+
+.current-card{
+    display: flex;
+    align-items: center;
+    gap: 110px;
+}
+
+
+.current-tittle h2{
+color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+text-align: center;
+margin: 111px;
+}
+
+.current-tittle p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+margin-top: -85px;
+}
+
+
+.learn-card{
+    width: 340px;
+    height: 290px;
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.learn-card img{
+    margin-top: 20px;
+}
+
+.learn-card h4{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+}
+
+.learn-card p{
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: -10px;
+}
+.learn-card a{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-decoration-line: underline;
+}
+
+/* 2nd card */
+.learn-card2{
+    width: 340px;
+    height: 290px;
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+    align-items: center;
+}
+
+.learn-card2 img{
+    margin-top: 20px;
+}
+
+.learn-card2 h4{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+}
+
+.learn-card2 p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: -10px;
+}
+
+.learn-card2 a{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-decoration-line: underline;
+}
+/* 2nd card */
+
+
+/* 3rd card */
+.learn-card3{
+width: 340px;
+height: 290px;
+background-color: rgba(255, 223, 0, 0.05);
+padding: 40px;
+border-radius: 16px;
+}
+
+.learn-card3 img{
+    margin-top: 20px;
+}
+.learn-card3 h4{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+}
+
+.learn-card3 p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: -10px;
+}
+
+.learn-card3 a{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-decoration-line: underline;
+}
+
+        /* 3rd card */
+/* Carent target */
+
 
 
 
