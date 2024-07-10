@@ -93,6 +93,7 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 margin-top: 24px;
+opacity: 0.7;
 }
 
 .background-btn{
@@ -116,5 +117,90 @@ margin-top: 24px;
 
 
 /* ----------------------------Main section start------------------------------ */
+
+#main-section{
+    height: 1530px;
+    width: 1440px;
+    background-color:rgba(13, 19, 33, 0.02);
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 16px;
+}
+
+
+.main-tittle{
+    text-align: center;
+}
+
+.main-tittle h2{
+color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+padding-top: 80px;
+}
+
+.main-tittle p{
+margin-top: 24px;
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+}
+
+/* card section */
+
+
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 336px;
+    width: 946px;
+    background-color: white;
+    padding: 30px;
+    gap: 50px;
+    border-radius: 16px;
+    margin-top: 30px;
+}
+
+.card-text h3{
+color: rgba(13, 19, 33, 0.7);
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+margin-top: -20px;
+}
+
+.card-text p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin-top: -10px;
+}
+
+.card-text button{
+padding: 10px 25px 10px 25px;
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+margin-top: 15px;
+}
+/* card section */
+
+
 
 /* ----------------------------Main section end-------------------------------- */
