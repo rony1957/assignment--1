@@ -1,0 +1,121 @@
+
+
+.azeret-mono-simple {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Logo section */
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 150px;
+}
+
+.header-btn button{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 17px 24px 17px 24px;
+margin-right: 166px;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.8;
+border-radius: 5px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* Logo section end */
+
+
+
+
+/* Background image add */
+
+.background-add{
+background-image: url(../assets/Hero-bg.png);
+position: absolute;
+width: 1900px;
+height: 722px;
+left: 0;
+right: 0;
+top: 131px;
+bottom: 4462px;
+background-size: cover;
+background-position: center;
+}
+
+.content-image{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+margin-top: 16px;
+}
+
+.content-image img{
+width: 240.28px;
+height: 240px;
+top: 0%;
+bottom: 0%;
+}
+
+.header-tittle h1{
+color: rgb(13, 19, 33);
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+margin-top:32px ;
+}
+
+
+.header-tittle p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 24px;
+}
+
+.background-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-btn button{
+    padding: 17px 24px 17px 24px;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(13, 19, 33);
+    margin-top: 32px;
+}
+/* Background image add end*/
+
+
+/* ----------------------------Main section start------------------------------ */
+
+/* ----------------------------Main section end-------------------------------- */
