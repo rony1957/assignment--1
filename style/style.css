@@ -380,4 +380,75 @@ text-decoration-line: underline;
 
 
 
+/* next target */
+.next-target{
+    margin-top: 111px;
+}
+.next-target h2{
+color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+text-align: center;
+}
+
+.next-text p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+opacity: 0.7;
+}
+
+.next-language{
+    margin-top: 50px;
+}
+
+.react{
+    height: 220px;
+    width: 1440px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-top: 15px;
+}
+
+.react img{
+    height: 85px;
+    width: 95px;
+    margin-left: 45px;
+}
+
+.react-text h3{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+}
+.react-text p{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+opacity: 0.7;
+}
+
+.react-text a{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-align: left;
+text-decoration-line: underline;
+}
+/* next target */
+
+
+
+
 /* ----------------------------Main section end-------------------------------- */
